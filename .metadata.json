@@ -1,0 +1,14 @@
+[
+  {
+    "package": "dialr",
+    "oncran": true
+  },
+  {
+    "package": "dialrjars",
+    "oncran": true
+  },
+  {
+    "package": "testdat",
+    "oncran": true
+  }
+]
