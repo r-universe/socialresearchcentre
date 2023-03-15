@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "testdat"]
-	path = testdat
-	url = https://github.com/socialresearchcentre/testdat
+[submodule "dialr"]
+	path = dialr
+	url = https://github.com/socialresearchcentre/dialr
 	shallow = true
 	registered = true
 [submodule "dialrjars"]
@@ -13,8 +13,8 @@
 	url = https://github.com/socialresearchcentre/dialrjars
 	shallow = true
 	registered = true
-[submodule "dialr"]
-	path = dialr
-	url = https://github.com/socialresearchcentre/dialr
+[submodule "testdat"]
+	path = testdat
+	url = https://github.com/socialresearchcentre/testdat
 	shallow = true
 	registered = true
