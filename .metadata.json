@@ -1,6 +1,6 @@
 [
   {
-    "package": "dialr",
+    "package": "testdat",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "testdat",
+    "package": "dialr",
     "oncran": true
   }
 ]
